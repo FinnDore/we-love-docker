@@ -1,0 +1,8 @@
+.pnpm
+.github
+.vscode
+**.output
+**.nitro
+**.turbo
+**node_modules
+**dist
